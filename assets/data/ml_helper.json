@@ -1,0 +1,80 @@
+{
+  "banana": [
+    "Banana bunulan",
+    "Banana butuan",
+    "Banana cavendish ripe",
+    "Banana cavendish unripe",
+    "Banana gloria",
+    "Banana lacatan",
+    "Banana latundan",
+    "Banana murado",
+    "Banana saba",
+    "Banana saba boiled",
+    "Banana ternate",
+    "Banana tuldok"
+  ],
+  "apple": ["Apple red", "Apple green"],
+  "chicken breast": ["Chicken breast"],
+  "pork belly": [
+    "Pork belly",
+    "Pork belly broiled",
+    "Pork belly fried",
+    "Pork belly boiled",
+    "Pork belly seasoned roasted"
+  ],
+  "bread": [
+    "Bread w/ margarine & sugar filling",
+    "Bread brown",
+    "Bread cheese roll",
+    "Bread hotdog roll",
+    "Bread cinnamon roll",
+    "Bread toasted w/ margarine-sugar topping",
+    "Bread mung bean loaf",
+    "Bread pan de bonete",
+    "Bread pan de coco",
+    "Bread pan de leche",
+    "Bread pan de limon",
+    "Bread pan de monay",
+    "Bread pan de sal",
+    "Bread raisin",
+    "Bread rye",
+    "Bread sweet roll",
+    "Bread sweet roll w/ mung bean filling",
+    "Bread toasted",
+    "Bread white loaf"
+  ],
+  "corn": [
+    "Corn grits white",
+    "Corn grits yellow",
+    "Corn on cob white",
+    "Corn on cob yellow",
+    "Corn on cob yellow boiled"
+  ],
+  "egg": [
+    "Egg chicken white",
+    "Egg chicken whole",
+    "Egg chicken whole boiled",
+    "Egg chicken yolk"
+  ],
+  "milk": [
+    "Milk pwdr filled inst",
+    "Milk pwdr full cream",
+    "Milk pwdr infant formula",
+    "Milk pwdr non-fat inst",
+    "Milk pwdr skim"
+  ],
+  "rice": [
+    "Rice well-milled",
+    "Rice well-milled boiled",
+    "Rice well-milled fried",
+    "Rice undermilled",
+    "Rice undermilled glutinous purple",
+    "Rice undermilled glutinous purple boiled",
+    "Rice undermilled red"
+  ],
+  "tofu": [
+    "Soybean cheese salted",
+    "Soybean cheese soft curd",
+    "Soybean cheese hard curd"
+  ]
+}
